@@ -1,0 +1,14 @@
+=====================================================
+             PORT SCANNER REPORT
+=====================================================
+Target Host      : localhost
+Resolved IP      : 127.0.0.1
+Scan Timestamp   : 2026-06-15T23:27:08.674436
+Scan Duration    : 1.62 seconds
+Open Ports Found : 2
+-----------------------------------------------------
+
+PORT     SERVICE         STATE      BANNER / DESCRIPTION                              
+-------------------------------------------------------------------------------------
+135      MSRPC           OPEN       Microsoft RPC Endpoint Mapper                     
+445      MICROSOFT-DS    OPEN       SMB over TCP (Microsoft Directory Services)       

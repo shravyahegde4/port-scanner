@@ -1,0 +1,23 @@
+{
+    "target": "localhost",
+    "resolved_ip": "127.0.0.1",
+    "scan_timestamp": "2026-06-15T23:27:19.009711",
+    "scan_duration_seconds": 1.64,
+    "total_open_ports": 2,
+    "open_ports": [
+        {
+            "port": 135,
+            "state": "OPEN",
+            "service": "MSRPC",
+            "description": "Microsoft RPC Endpoint Mapper",
+            "banner": null
+        },
+        {
+            "port": 445,
+            "state": "OPEN",
+            "service": "MICROSOFT-DS",
+            "description": "SMB over TCP (Microsoft Directory Services)",
+            "banner": null
+        }
+    ]
+}
